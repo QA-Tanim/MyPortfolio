@@ -1,0 +1,20 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0D0F"/>
+      <stop offset="100%" stop-color="#15191E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="60" width="1080" height="510" rx="16" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  
+  <text x="100" y="150" font-family="monospace" font-size="20" fill="#B8F56A" font-weight="bold" letter-spacing="3">PORTFOLIO // SQA ENGINEER</text>
+  <text x="100" y="240" font-family="system-ui, sans-serif" font-size="54" fill="#F5F7FA" font-weight="bold">Ishtiaque Ahmed Tanim</text>
+  <text x="100" y="300" font-family="system-ui, sans-serif" font-size="28" fill="#B8F56A">Software Quality Assurance Engineer</text>
+  <text x="100" y="360" font-family="system-ui, sans-serif" font-size="22" fill="#9299A3">AKIJ iBOS Limited &middot; Dhaka, Bangladesh</text>
+  
+  <line x1="100" y1="420" x2="1100" y2="420" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  
+  <text x="100" y="470" font-family="monospace" font-size="18" fill="#9299A3">Manual Testing &middot; Playwright Automation &middot; Postman REST APIs &middot; JMeter Performance</text>
+  <text x="100" y="520" font-family="monospace" font-size="16" fill="#B8F56A">https://github.com/QA-Tanim</text>
+</svg>
